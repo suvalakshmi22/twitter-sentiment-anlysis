@@ -13,5 +13,5 @@ finding polarity using python libraries and visualizing it as a pie chart
  # SNAPSHOTS OF THE OUTPUT :
  visualiazing how people are reacting to tamilnadu election by analysing 200 tweets
  
- ![Uploading image.png…]()
+ [Uploading image.png…]()
 
