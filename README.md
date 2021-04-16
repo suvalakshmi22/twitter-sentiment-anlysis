@@ -8,6 +8,7 @@ created twitter API in developer account
 
 # approach
 generated access keys and tokens from twitter api
+
 finding polarity using python libraries and visualizing it as a pie chart
 
  # result :
