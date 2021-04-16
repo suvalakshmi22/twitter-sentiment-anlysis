@@ -10,8 +10,7 @@ created twitter API in developer account
 generated access keys and tokens from twitter api
 finding polarity using python libraries and visualizing it as a pie chart
 
- # SNAPSHOTS OF THE OUTPUT :
+ # result :
  visualiazing how people are reacting to tamilnadu election by analysing 200 tweets
  
- [Uploading image.png…]()
 
